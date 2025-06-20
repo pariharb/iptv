@@ -1,10 +1,8 @@
 #EXTM3U
 # All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. 
-#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live Sports
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",Live Sports
 http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla" group-title="",T Sports 
-https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",Sony Kal
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -14,119 +12,79 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="Sports",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title="Sports" group-title="",Sony Sports Ten 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png" group-title="Sports",Sony Sports Ten 1 HD
 https://bdixtv24.site/toffee/live.php?id=43dcec1011e7&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports" group-title="",Sony Sports Ten 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png" group-title="Sports",Sony Sports Ten 3 HD
 https://bdixtv24.site/toffee/live.php?id=edc6a07e4754&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports" group-title="",Sony Sports Ten 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png" group-title="Sports",Sony Sports Ten 5
 https://bdixtv24.site/toffee/live.php?id=fd6de8bd1666&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png" group-title="Sports",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports" group-title="",A Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png" group-title="Sports",A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png"group-title="Sports" group-title="",Geo Super
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png" group-title="Sports",Geo Super
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",RTA Sports
+#EXTINF:-1 tvg-logo=""group-title="Sports"",RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports" group-title="",Ten Sports PK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png" group-title="Sports",Ten Sports PK
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
+#EXTINF:-1 tvg-logo="" group-title="Sports",Bein Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 1
+#EXTINF:-1 tvg-logo="" group-title="Sports",Bein Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS" group-title="",Nick
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="KIDS",Nick
 https://iptvcable.netlify.app/Altogether-007/Cartoon/NickHindi.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="KIDS" group-title="",Pogo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg" group-title="KIDS",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="English Movies" group-title="",Action Hollywood Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="English Movies",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",YRF Music HD
+#EXTINF:-1 tvg-logo="" group-title="Hindi Music",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="Hindi Music" group-title="",9X Jalwa
+#EXTINF:-1 tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png" group-title="Hindi Music",9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png"group-title="Hindi Music" group-title="",E24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="Hindi Music",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",8XM
+#EXTINF:-1 tvg-logo="" group-title="Hindi Music",8XM
 http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="English News" group-title="",CNN
+#EXTINF:-1 tvg-logo="" group-title="English News",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Fox News Now
+#EXTINF:-1 tvg-logo="" group-title="English News",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Sky News
+#EXTINF:-1 tvg-logo="" group-title="English News",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
-#EXTINF:-1 tvg-logo="" group-title=group-title="Cricket B" tvg-logo=" ", Starz on Criclife 
+#EXTINF:-1 tvg-logo="" group-title="Cricket B" tvg-logo=" ", Starz on Criclife 
 https://ddy6new.newkso.ru/ddy6/premium282/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title=group-title="Cricket B" tvg-logo=" ", Sony 1 Sports 
+#EXTINF:-1 tvg-logo="" group-title="Cricket B" tvg-logo=" ", Sony 1 Sports 
 https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title=group-title="Cricket B" tvg-logo=" ", T Sports Football 
+#EXTINF:-1 tvg-logo="" group-title="Cricket B" tvg-logo=" ", T Sports Football 
 http://38.96.178.201/live/TSports/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=group-title="Cricket B" tvg-logo=" ", BTV Sports HD
+#EXTINF:-1 tvg-logo="" group-title="Cricket B" tvg-logo=" ", BTV Sports HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title=group-title="Cricket B" tvg-logo=" ", A Sports HD MLC USA-2025
+#EXTINF:-1 tvg-logo="" group-title="Cricket B" tvg-logo=" ", A Sports HD MLC USA-2025
 https://ddy6new.newkso.ru/ddy6/premium269/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title=group-title="Cricket B" tvg-logo=" ", T Sports 1 HD NS Player Need
+#EXTINF:-1 tvg-logo="" group-title="Cricket B" tvg-logo=" ", T Sports 1 HD NS Player Need
 http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title=group-title="Cricket B" tvg-logo=" ", Star Sports Select 1 Backup
+#EXTINF:-1 tvg-logo="" group-title="Cricket B" tvg-logo=" ", Star Sports Select 1 Backup
 https://rex-streaming.vercel.app/api/x/167578.m3u8
-#EXTINF:-1 tvg-logo="" group-title=group-title="Cricket B" tvg-logo=" ", M-Sports HD 
+#EXTINF:-1 tvg-logo="" group-title="Cricket B" tvg-logo=" ", M-Sports HD 
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=group-title="Cricket B" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg ", A SPORTS HD 
+#EXTINF:-1 tvg-logo="" group-title="Cricket B" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg ", A SPORTS HD 
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title=group-title="Cricket B" tvg-logo="",Star Sports SL 1 HD 
+#EXTINF:-1 tvg-logo="" group-title="Cricket B" tvg-logo="",Star Sports SL 1 HD 
 http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title=group-title="Cricket B" tvg-logo=" ", TNT Sports 1 HD
+#EXTINF:-1 tvg-logo="" group-title="Cricket B" tvg-logo=" ", TNT Sports 1 HD
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title=group-title="Cricket B", RTA Sports HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket B", RTA Sports HD
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 tvg-logo="" group-title=group-title="Cricket B" tvg-logo="",Fast-Studios-Womens-Sports
+#EXTINF:-1 tvg-logo="" group-title="Cricket B" tvg-logo="",Fast-Studios-Womens-Sports
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
-#EXTINF:-1 tvg-logo="" group-title=group-title="Cricket B", Redbull TV
+#EXTINF:-1 tvg-logo="" group-title="Cricket B", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="" group-title=group-title="Cricket B" tvg-logo=" ",Unifi HD
+#EXTINF:-1 tvg-logo="" group-title="Cricket B" tvg-logo=" ",Unifi HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ",Super sport 3
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/407.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ", Supersport 2
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/406.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ", Supersport 1
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/405.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ", Arenasport 5 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/404.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ", Arenasport 4 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/403.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ", Arenasport 3 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/402.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ",Arena sport 2 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/401.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ", Arenasport 1 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/400.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ", Digi Sport 4
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4484.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ", Digi Sport 3
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4483.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ", Digi Sport 2
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4482.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ", Digi Sport 1
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/4481.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ",Super Sport 4 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/340.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ",Super Sport 3 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/339.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ",Super Sport 2 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/338.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ",Super Sport 1 HD
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/337.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ",SuperSport 6
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3403.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ",SuperSport 5
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3404.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ",SuperSport 4
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3405.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket N" tvg-logo=" ",SuperSport 3
-http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3406.m3u8
